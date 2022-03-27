@@ -1,0 +1,13 @@
+{
+  "pack": {
+    "pack_format": 8,
+    "description": "Pälzisch"
+  },
+  "language": {
+    "de_pf": {
+      "name": "Pälzisch",
+      "region": "Deutschland/Pfalz/Eschenau",
+      "bidirectional": false
+    }
+  }
+}
